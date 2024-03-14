@@ -1,46 +1,104 @@
-# Getting Started with Create React App
+# Finnacial App challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Contributors of this Project
+* By David Enamorado on March 14th
 
-## Available Scripts
+# Description
+Financial app challenge based on the requires from client, this app uses Create React App, TypeScript, Chakra ui & Taildwind.
 
-In the project directory, you can run:
+# Setup Requirements
+* Git
+* Github
+* Web Browser (Chrome or Firefox)
+* [React](https://es.reactjs.org/)
+* [Node Js](https://nodejs.org/en/ )
+* [NPM](https://www.npmjs.com/) 
 
-### `npm start`
+# Setup Installation
+* Copy the link of this repository
+* Clone it to your local machine
+* Open terminal and navigate to the directory of the project you just cloned to your computer
+* Run the following command to install all the dependencies
 
-Runs the app in the development mode.\
+## Installation
+
+Use the package manager [NPM](https://www.npmjs.com/) to install Node Modules on the app folder. 
+
+```bash
+npm install
+```
+## Usage
+
+After finishing the installation of the node modules, they run by executing on the terminal next comand it runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+npm run start
+```
+Login Page
 
-### `npm test`
+<img width="1511" alt="Screen Shot 2024-03-14 at 11 21 18" src="https://github.com/jenamoradoc/Financial_test_app/assets/26368576/3c56fec8-cbae-463d-926a-886cbb156fe5">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Dashboard Page
 
-### `npm run build`
+<img width="1512" alt="Screen Shot 2024-03-14 at 11 21 33" src="https://github.com/jenamoradoc/Financial_test_app/assets/26368576/648b6098-7637-4345-97ae-986c3d6a1ec5">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Projections Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1511" alt="Screen Shot 2024-03-14 at 11 21 47" src="https://github.com/jenamoradoc/Financial_test_app/assets/26368576/51da7836-0a3c-4fb7-8b3a-a4ca223da678">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Invoices Page
 
-### `npm run eject`
+<img width="1511" alt="Screen Shot 2024-03-14 at 11 22 01" src="https://github.com/jenamoradoc/Financial_test_app/assets/26368576/5a24d469-ee0e-421b-ab5a-0980414aa3b8">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Known Bugs
+There are no known bugs of this project at the moment.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Technologies Used
+* HTML
+* CSS
+* TSX
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Tests
+Launches the test runner in the interactive watch mode.
 
-## Learn More
+```bash
+npm run test
+```
+<img width="918" alt="Screen Shot 2024-03-14 at 11 23 28" src="https://github.com/jenamoradoc/Financial_test_app/assets/26368576/111d770b-6b8c-4ee5-90e1-a66d73988036">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# License
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Thanks
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jeamoradoc/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
